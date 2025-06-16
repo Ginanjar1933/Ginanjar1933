@@ -14,7 +14,7 @@
 - 🌱 I'm currently learning **advanced React & Node.js**
 - 👯 I'm looking to collaborate on **open source projects**
 - 💬 Ask me about **JavaScript, React, Node.js**
-- 📫 How to reach me: **your.email@example.com**
+- 📫 How to reach me: **gojali.legends@gmail.com**
 - ⚡ Fun fact: **I love to code while listening to music** 🎵
 
 <br clear="both">
@@ -49,27 +49,27 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ginanjarsaepulloh&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ginanjarsaepulloh&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ginanjar1933&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ginanjar1933&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ginanjarsaepulloh&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ginanjar1933&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ## 🎮 GitHub Snake Game
 <div align="center">
-  <img src="https://github.com/ginanjarsaepulloh/ginanjarsaepulloh/blob/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
+  <img src="https://github.com/Ginanjar1933/Ginanjar1933/blob/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
 </div>
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ginanjarsaepulloh&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Ginanjar1933&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
 </div>
 
 ## 📈 Activity Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ginanjarsaepulloh&theme=react-dark&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ginanjar1933&theme=react-dark&hide_border=true" alt="Activity Graph"/>
 </div>
 
 ## 🎯 Current Focus
@@ -101,7 +101,7 @@ const ginanjarsaepulloh = {
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ginanjarsaepulloh)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ginanjar1933)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ginanjarsaepulloh)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ginanjarsaepulloh)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ginanjarsaepulloh)
@@ -122,7 +122,7 @@ const ginanjarsaepulloh = {
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ginanjarsaepulloh&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Ginanjar1933&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
   
   **Thanks for visiting! 😊**
   
